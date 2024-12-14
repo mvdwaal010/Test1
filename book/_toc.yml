@@ -10,6 +10,8 @@ parts:
       # - file: some_content/text_and_code.ipynb
       - file: some_content/text_and_code_gitlab_down.ipynb
       # END OF DEC 14, 2024 OUTAGE COMMENT
+- file: file_to_be_added_to_toc2.md
+      
     - file: exercises/exercises
       sections:
       - file: exercises/001.md
